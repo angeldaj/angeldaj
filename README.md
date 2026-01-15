@@ -32,7 +32,7 @@ Coding a real difference.
 
 #
 
-### 👨‍💻 My coding journey
+###  <summary>👨‍💻 My coding journey</summary>
 
 I started my path in **Software Engineering at Universidad Experimental de Guayana (2017–present)**, where my thesis and internship revolve around a **Civil Aeronautics Management System**. Early on, what pulled me in wasn’t just learning concepts. It was the feeling of taking an idea and turning it into something that actually works for someone.
 
