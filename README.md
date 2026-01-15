@@ -32,9 +32,7 @@ Coding a real difference.
 
 #
 
-<details>
-
-<summary> <h3>👨‍💻 My coding journey </h3> <summary>
+<details><summary> <h3>👨‍💻 My coding journey </h3> <summary>
 
 I started my path in **Software Engineering at Universidad Experimental de Guayana (2017–present)**, where my thesis and internship revolve around a **Civil Aeronautics Management System**. Early on, what pulled me in wasn’t just learning concepts. It was the feeling of taking an idea and turning it into something that actually works for someone.
 
@@ -43,6 +41,6 @@ In **2020**, I began freelancing and building projects for personal use, mostly 
 In **2024**, I joined **Transmandu, C.A** as a **Full-Stack Developer**, and that’s where things shifted from “projects” to software that runs operations. I worked on a Next.js app using the App Router with SSR/ISR, code-splitting, and lazy routes, then backed it with a Laravel API built around Sanctum, policies, and audit logs for compliance. I leaned heavily on TanStack Query for caching and invalidation, and that work helped reduce API chatter by about **35%**. I also delivered **5+ modules** across authentication, analytics, warehouse inventory, purchases, and flights control, plus performance improvements like ~**20%** faster page loads through better caching, indexing, and smarter loading strategies. 
 
 By **November 2024**, I moved into **Head of Development Department**, leading a team of **7 developers** while staying close to architecture and delivery. We design and deploy an aeronautic management platform that supports maintenance scheduling, fleet tracking, compliance reporting, and purchasing. On the frontend, I focus on accessible UI (ARIA), virtualized tables for large datasets, and forms that stay predictable with React Hook Form + Zod. On the backend, I’ve worked with roles and permissions, job queues with Horizon, Redis caching, SQL Server tuning with covering indexes, and more operational concerns like chunked uploads, secure tunneling, and infrastructure failover. The goal is simple: keep the system reliable, auditable, and fast, even under real operational pressure, including **INAC-aligned compliance**. 
-Today, I’m focused on building software that feels smooth to users and stays maintainable for developers. I like performance you can measure, workflows that reduce delays, and codebases that a team can extend without fear. 
+Today, I’m focused on building software that feels smooth to users and stays maintainable for developers. I like performance you can measure, workflows that reduce delays, and codebases that a team can extend without fear.</details>
 
-</details>
+
