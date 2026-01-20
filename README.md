@@ -1,7 +1,7 @@
 # 🏄‍♂️ Angel Antón
 **`Web Developer`**
 
-I’m a frontend-focused developer building fast, modern web experiences with React, Next.js, and TailwindCSS. I take projects from idea to UI—turning complex designs into responsive, accessible interfaces that feel smooth to use and stay easy to maintain. I care about the details that ship: performance, clean component architecture, and interactions that feel effortless.
+I’m a frontend-focused developer building fast, modern web experiences with React, Next.js, and TailwindCSS. I take projects with complex designs into responsive, accessible interfaces that feel smooth to use and stay easy to maintain. I care about the details that ship: performance, clean component architecture, and interactions that feel effortless.
 
 Coding a real difference.
 
